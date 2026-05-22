@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Large files
+sign_model.h5
+*.h5
+dataset/
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
